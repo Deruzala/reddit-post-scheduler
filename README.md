@@ -16,7 +16,7 @@ Go to your [app preferences](https://www.reddit.com/prefs/apps). Click the "Crea
 - **name:** PostScheduler
 - **App type:** Choose the **script** option
 - **description:** A versatile Python script for scheduling all sort of reddit posts.
-- **about url:** https://github.com/ibid-11962/reddit-post-scheduler
+- **about url:** https://github.com/Deruzala/reddit-post-scheduler
 - **redirect url:** http://localhost:8080
 
 Hit the "create app" button. Make note of the client ID and client secret.
